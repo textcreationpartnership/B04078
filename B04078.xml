@@ -1,0 +1,1040 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of the imperial forces in the kingdom of Hungary, in the year 1686. and 1687. As also of the Turks army, (and Tartars) under the command of Soliman Azen, Grand Vizier.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04078</idno>
+            <idno type="STC">Wing L2448</idno>
+            <idno type="STC">ESTC R179824</idno>
+            <idno type="EEBO-CITATION">53299166</idno>
+            <idno type="OCLC">ocm 53299166</idno>
+            <idno type="VID">179911</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04078)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179911)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2808:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of the imperial forces in the kingdom of Hungary, in the year 1686. and 1687. As also of the Turks army, (and Tartars) under the command of Soliman Azen, Grand Vizier.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. Croom, in Thames-street,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: sheet creased with slight loss of text.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hungary. --  Honvédség. --  Registers --  17th century --  Sources.</term>
+               <term>Turkey. --  Ordu. --  Registers --  17th century --  Sources.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:179911:1" rendition="simple:additions"/>
+            <head>A Liſt of the Imperial Forces in the Kingdom OF <hi>Hungary,</hi> in the Year 1686. and 1687. As alſo of the <hi>Turks</hi> Army, (and <hi>Tartars</hi>) under the Command of <hi>Soliman Azen,</hi> Grand Vizier.</head>
+            <div type="part">
+               <head>Under the Duke of <hi>Lorrain</hi> in the Year 1686.</head>
+               <div type="section">
+                  <head>Generals of the Foot.</head>
+                  <p>COunt <hi>Starembergh,</hi> Mareſchal de Camp, Ge<g ref="char:EOLhyphen"/>neral. General Duke <hi>de Croy.</hi> General <hi>Souches.</hi> General Prince of <hi>Newburgh.</hi> General D. <hi>Fontain.</hi> General <hi>Dippenthal.</hi> General <hi>Dingen.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Imperial Regiments of Foot.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label" cols="3">Men.</cell>
+                        </row>
+                        <row>
+                           <cell>1</cell>
+                           <cell>
+                              <hi>Starembergh</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>2</cell>
+                           <cell>Four Imperial Companies</cell>
+                           <cell>00600</cell>
+                        </row>
+                        <row>
+                           <cell>3</cell>
+                           <cell>D. <hi>Croy</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>4</cell>
+                           <cell>Five Companies of <hi>Salmes.</hi>
+                           </cell>
+                           <cell>00750</cell>
+                        </row>
+                        <row>
+                           <cell>5</cell>
+                           <cell>
+                              <hi>Mansfeldt</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>6</cell>
+                           <cell>
+                              <hi>Newburgh</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>7</cell>
+                           <cell>
+                              <hi>Souches</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>8</cell>
+                           <cell>
+                              <hi>Dippenthal</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>9</cell>
+                           <cell>
+                              <hi>Dingen</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>10</cell>
+                           <cell>Prince of <hi>Lorrain</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>11</cell>
+                           <cell>
+                              <hi>Leſlie</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>12</cell>
+                           <cell>
+                              <hi>Heuſler</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>13</cell>
+                           <cell>
+                              <hi>Croats</hi>
+                           </cell>
+                           <cell>03000</cell>
+                        </row>
+                        <row>
+                           <cell>14</cell>
+                           <cell>
+                              <hi>Hungarians</hi>
+                           </cell>
+                           <cell>04000</cell>
+                        </row>
+                        <row>
+                           <cell cols="3">23350</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>A<g ref="char:V">Ʋ</g>XILIARIES.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>1</cell>
+                           <cell>
+                              <hi>Saxons</hi>
+                           </cell>
+                           <cell>04700</cell>
+                        </row>
+                        <row>
+                           <cell>2</cell>
+                           <cell>
+                              <hi>Brandenburghers</hi>
+                           </cell>
+                           <cell>08200</cell>
+                        </row>
+                        <row>
+                           <cell>3</cell>
+                           <cell>
+                              <hi>Swedes</hi>
+                           </cell>
+                           <cell>01300</cell>
+                        </row>
+                        <row>
+                           <cell>4</cell>
+                           <cell>
+                              <hi>Franconians</hi>
+                           </cell>
+                           <cell>01000</cell>
+                        </row>
+                        <row>
+                           <cell>5</cell>
+                           <cell>
+                              <hi>Suabians</hi>
+                           </cell>
+                           <cell>04000</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Generals of the Horſe.</head>
+                  <p>GEneral <hi>Caprara.</hi> General <hi>Scultz.</hi> General <hi>Dunewalt.</hi> General <hi>Palfie.</hi> General <hi>Gondola.</hi> General <hi>Taaffe.</hi> General <hi>Mercy.</hi> Count <hi>Turri.</hi> Count <hi>Stirum.</hi> Count <hi>Lodron.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Imperial Regiments of Horſe.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>1</cell>
+                           <cell>
+                              <hi>Caprara</hi>
+                           </cell>
+                           <cell>00800</cell>
+                        </row>
+                        <row>
+                           <cell>2</cell>
+                           <cell>
+                              <hi>Dunewalt</hi>
+                           </cell>
+                           <cell>00800</cell>
+                        </row>
+                        <row>
+                           <cell>3</cell>
+                           <cell>
+                              <hi>Palfie</hi>
+                           </cell>
+                           <cell>00800</cell>
+                        </row>
+                        <row>
+                           <cell>4</cell>
+                           <cell>
+                              <hi>Gondola</hi>
+                           </cell>
+                           <cell>00800</cell>
+                        </row>
+                        <row>
+                           <cell>5</cell>
+                           <cell>
+                              <hi>Taaffe</hi>
+                           </cell>
+                           <cell>00800</cell>
+                        </row>
+                        <row>
+                           <cell>6</cell>
+                           <cell>
+                              <hi>Newburgh</hi>
+                           </cell>
+                           <cell>00800</cell>
+                        </row>
+                        <row>
+                           <cell>7</cell>
+                           <cell>
+                              <hi>Hanover</hi>
+                           </cell>
+                           <cell>00800</cell>
+                        </row>
+                        <row>
+                           <cell>8</cell>
+                           <cell>
+                              <hi>Pace</hi>
+                           </cell>
+                           <cell>00800</cell>
+                        </row>
+                        <row>
+                           <cell>9</cell>
+                           <cell>
+                              <hi>Truches</hi>
+                           </cell>
+                           <cell>00800</cell>
+                        </row>
+                        <row>
+                           <cell>10</cell>
+                           <cell>
+                              <hi>Schultz</hi>
+                           </cell>
+                           <cell>00800</cell>
+                        </row>
+                        <row>
+                           <cell>11</cell>
+                           <cell>
+                              <hi>Stirum</hi>
+                           </cell>
+                           <cell>00800</cell>
+                        </row>
+                        <row>
+                           <cell>12</cell>
+                           <cell>
+                              <hi>Mercy</hi>
+                           </cell>
+                           <cell>00800</cell>
+                        </row>
+                        <row>
+                           <cell>13</cell>
+                           <cell>
+                              <hi>Sauran</hi>
+                           </cell>
+                           <cell>00800</cell>
+                        </row>
+                        <row>
+                           <cell>14</cell>
+                           <cell>
+                              <hi>Lodron</hi>
+                           </cell>
+                           <cell>01100</cell>
+                        </row>
+                        <row>
+                           <cell>15</cell>
+                           <cell>Auxiliaries of the Circle of the <hi>Rhine</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Army Commanded by the Duke of <hi>Bavaria.</hi>
+               </head>
+               <div type="section">
+                  <head>Generals of the Foot.</head>
+                  <p>COunt <hi>Leſlie,</hi> Mareſchal de Camp. General <hi>De la Vernie.</hi> General <hi>Scherffenbergh.</hi> General <hi>Wallis.</hi> General <hi>Becke.</hi> General <hi>Apremont.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Imperial Regiments of Foot.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>1</cell>
+                           <cell>
+                              <hi>Baden</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>2</cell>
+                           <cell>
+                              <hi>Serini</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>3</cell>
+                           <cell>Five Companies of <hi>Vernie</hi>
+                           </cell>
+                           <cell>00750</cell>
+                        </row>
+                        <row>
+                           <cell>4</cell>
+                           <cell>
+                              <hi>Scherffenbergh</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>5</cell>
+                           <cell>Five Companies of <hi>Meternich</hi>
+                           </cell>
+                           <cell>00750</cell>
+                        </row>
+                        <row>
+                           <cell>6</cell>
+                           <cell>
+                              <hi>Becke</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>7</cell>
+                           <cell>
+                              <hi>Apermont</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>8</cell>
+                           <cell>
+                              <hi>Houchin</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>9</cell>
+                           <cell>
+                              <hi>Furſtemburgh</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Generals of Imperial Horſe.</head>
+                  <p>Prince <hi>Lovis</hi> of <hi>Baden.</hi> General <hi>Carraffa.</hi> Gene<g ref="char:EOLhyphen"/>ral <hi>Piccolomini.</hi> General <hi>Veterani.</hi> General <hi>Houſler.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>12 <hi>Regiments of Imperial Horſe.</hi>
+                  </head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>
+                              <hi>Sax Lawenbergh. Carraffa. Vetetani. Piccolo<g ref="char:EOLhyphen"/>mini. Heuſler. Getz. De Croy. Furſtembergh Caſtalli. Tetwin. Savoy</hi> and <hi>Magni,</hi> Each eight hundred Men.</cell>
+                           <cell>09280</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Hungarians</hi> 6000 with which are joyned of <hi>Bavarians</hi> 8000</cell>
+                           <cell>14000</cell>
+                        </row>
+                        <row>
+                           <cell>In <hi>Tranſylvania</hi> are</cell>
+                           <cell>13000</cell>
+                        </row>
+                        <row>
+                           <cell>The Imperial Army 75130. Auxilaries</cell>
+                           <cell>28700</cell>
+                        </row>
+                        <row>
+                           <cell>In all</cell>
+                           <cell>103830</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Under the Duke of <hi>Lorrain</hi> this preſent Year 1687.</head>
+               <div type="section">
+                  <head>27 <hi>Imperial Regiments of Foot.</hi>
+                  </head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>1</cell>
+                           <cell>GEneral Mareſchal de Camp, Earneſt of <hi>Starembergh</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>2</cell>
+                           <cell>General Mareſchal de Camp, <hi>Leſlie</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>3</cell>
+                           <cell>The General of Artilery <hi>Keyſerſteine</hi>
+                           </cell>
+                           <cell>01900</cell>
+                        </row>
+                        <row>
+                           <cell>4</cell>
+                           <cell>The General of Artilery <hi>Croy</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>5</cell>
+                           <cell>The General of Horſe <hi>Baden</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>6</cell>
+                           <cell>The General of Horſe <hi>Salmes</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>7</cell>
+                           <cell>Lieut. Gen. Field Mareſchal <hi>Mansfeild</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>8</cell>
+                           <cell>The General of Artilery <hi>Maxinilian Starembergh</hi>
+                           </cell>
+                           <cell>02000</cell>
+                        </row>
+                        <row>
+                           <cell>9</cell>
+                           <cell>The Lieut. General <hi>Serini</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>10</cell>
+                           <cell>The Lieut. Gen. <hi>Souches</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>11</cell>
+                           <cell>The Lieut. Gen. <hi>Newburgh</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>12</cell>
+                           <cell>The Lieut. Gen. <hi>Scherffenbergh</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>13</cell>
+                           <cell>The Lieut. Gen. <hi>Stadtel</hi>
+                           </cell>
+                           <cell>02000</cell>
+                        </row>
+                        <row>
+                           <cell>14</cell>
+                           <cell>The Lieut. Gen. <hi>Dippenthal</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>15</cell>
+                           <cell>Major General <hi>Hungen</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>16</cell>
+                           <cell>The Major Gen. <hi>Mettervid</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>17</cell>
+                           <cell>The Major General <hi>Beck</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>18</cell>
+                           <cell>The Major Gen. <hi>Wallis</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>19</cell>
+                           <cell>The Major Gen. <hi>Apremont</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>20</cell>
+                           <cell>The Major Gen. <hi>Nigrelli</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>21</cell>
+                           <cell>The Major Gen. <hi>Heuſler</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>22</cell>
+                           <cell>Colonel <hi>Averſperg</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>23</cell>
+                           <cell>Col. Prince <hi>Thomas</hi> of <hi>Lorrain</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>24</cell>
+                           <cell>Colonel <hi>Houchin</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>25</cell>
+                           <cell>Colonel <hi>Furſtembergh</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>26</cell>
+                           <cell>Colonel <hi>Straſſer</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell>27</cell>
+                           <cell>Colonel <hi>Guido</hi> of <hi>Starembergh</hi>
+                           </cell>
+                           <cell>01500</cell>
+                        </row>
+                        <row>
+                           <cell cols="3">41900</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Imperial Curiaſſiers or Horſe, <hi>19</hi> Regim.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>1</cell>
+                           <cell>GEn. Mareſ. de Camp. <hi>Sax Lawenbergh</hi>
+                           </cell>
+                           <cell>0800</cell>
+                        </row>
+                        <row>
+                           <cell>2</cell>
+                           <cell>Gen. Mareſ. de Camp. <hi>Caprara</hi>
+                           </cell>
+                           <cell>0800</cell>
+                        </row>
+                        <row>
+                           <cell>3</cell>
+                           <cell>General of the Horſe <hi>Dunewaldt</hi>
+                           </cell>
+                           <cell>0800</cell>
+                        </row>
+                        <row>
+                           <cell>4</cell>
+                           <cell>General of the Horſe <hi>Palfie</hi>
+                           </cell>
+                           <cell>0800</cell>
+                        </row>
+                        <row>
+                           <cell>5</cell>
+                           <cell>The General of the Horſe <hi>Carraffa</hi>
+                           </cell>
+                           <cell>0800</cell>
+                        </row>
+                        <row>
+                           <cell>6</cell>
+                           <cell>The Lieut. Gen. <hi>Gondole</hi>
+                           </cell>
+                           <cell>0800</cell>
+                        </row>
+                        <row>
+                           <cell>7</cell>
+                           <cell>The Lieut. Gen. <hi>Taaffe</hi>
+                           </cell>
+                           <cell>0800</cell>
+                        </row>
+                        <row>
+                           <cell>8</cell>
+                           <cell>The Major Gen. <hi>Newburgh</hi>
+                           </cell>
+                           <cell>0800</cell>
+                        </row>
+                        <row>
+                           <cell>9</cell>
+                           <cell>The Major Gen. <hi>Montecuculi</hi>
+                           </cell>
+                           <cell>0800</cell>
+                        </row>
+                        <row>
+                           <cell>10</cell>
+                           <cell>The Major General <hi>Veterani</hi>
+                           </cell>
+                           <cell>0800</cell>
+                        </row>
+                        <row>
+                           <cell>11</cell>
+                           <cell>The Major Gen. <hi>Piccolomini</hi>
+                           </cell>
+                           <cell>0800</cell>
+                        </row>
+                        <row>
+                           <cell>12</cell>
+                           <cell>The Major General <hi>Heuſler</hi>
+                           </cell>
+                           <cell>0800</cell>
+                        </row>
+                        <row>
+                           <cell>13</cell>
+                           <cell>The Major General <hi>Comeray</hi>
+                           </cell>
+                           <cell>0800</cell>
+                        </row>
+                        <row>
+                           <cell>14</cell>
+                           <cell>The Colonel <hi>Getz.</hi>
+                           </cell>
+                           <cell>0800</cell>
+                        </row>
+                        <row>
+                           <cell>15</cell>
+                           <cell>The Colonel <hi>Hanover</hi>
+                           </cell>
+                           <cell>0800</cell>
+                        </row>
+                        <row>
+                           <cell>16</cell>
+                           <cell>The Colonel <hi>St. Croix.</hi>
+                           </cell>
+                           <cell>0800</cell>
+                        </row>
+                        <row>
+                           <cell>17</cell>
+                           <cell>The Colonel <hi>Furſtembergh</hi>
+                           </cell>
+                           <cell>0800</cell>
+                        </row>
+                        <row>
+                           <cell>18</cell>
+                           <cell>The Colonel <hi>Pace</hi>
+                           </cell>
+                           <cell>0800</cell>
+                        </row>
+                        <row>
+                           <cell>19</cell>
+                           <cell>The Colonel <hi>Truches</hi>
+                           </cell>
+                           <cell>0800</cell>
+                        </row>
+                        <row>
+                           <cell cols="3">15200</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Imperial Dragoons 9 Regiments.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>1</cell>
+                           <cell>Of <hi>Lodron</hi>
+                           </cell>
+                           <cell>1100</cell>
+                        </row>
+                        <row>
+                           <cell>2</cell>
+                           <cell>Of Major General <hi>Stirum</hi>
+                           </cell>
+                           <cell>0800</cell>
+                        </row>
+                        <row>
+                           <cell>3</cell>
+                           <cell>Of <hi>Caſtel</hi>
+                           </cell>
+                           <cell>0800</cell>
+                        </row>
+                        <row>
+                           <cell>4</cell>
+                           <cell>Of Major General <hi>Seran</hi>
+                           </cell>
+                           <cell>0800</cell>
+                        </row>
+                        <row>
+                           <cell>5</cell>
+                           <cell>More of <hi>Heberville.</hi> Of <hi>Savoy.</hi> Of <hi>Det<g ref="char:EOLhyphen"/>win</hi> Of <hi>Magni.</hi> Of <hi>Kuffel,</hi> Each 800 Men</cell>
+                           <cell>4000</cell>
+                        </row>
+                        <row>
+                           <cell cols="3">7500</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>A<g ref="char:V">Ʋ</g>XLIARIES.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>Of <hi>Franconians</hi> and <hi>Swabians</hi>
+                           </cell>
+                           <cell>8000</cell>
+                        </row>
+                        <row>
+                           <cell>Of <hi>Bavarians</hi>
+                           </cell>
+                           <cell>1000</cell>
+                        </row>
+                        <row>
+                           <cell>Of <hi>Croats</hi>
+                           </cell>
+                           <cell>4000</cell>
+                        </row>
+                        <row>
+                           <cell>Of <hi>Hangarians</hi> and <hi>
+                                 <gap reason="illegible: page creased" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>gdukes</hi>
+                           </cell>
+                           <cell>6000</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Imperialiſts</hi>
+                           </cell>
+                           <cell>64600</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>Auxilaries</hi>
+                           </cell>
+                           <cell>28000</cell>
+                        </row>
+                        <row>
+                           <cell>In all</cell>
+                           <cell>92600</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Liſt of the <hi>Turks</hi> Army in <hi>Hungary,</hi> under the Command of <hi>Soliman Azen,</hi> Grand Vizier.</head>
+               <div type="section">
+                  <head>Generals.</head>
+                  <p>
+                     <table>
+                        <row>
+                           <cell role="label" cols="2">Men</cell>
+                        </row>
+                        <row>
+                           <cell>
+                              <hi>SOliman Azen</hi> G<gap reason="illegible: page creased" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>nd Viſier, <hi>Janizaries</hi>
+                           </cell>
+                           <cell>07000</cell>
+                        </row>
+                        <row>
+                           <cell>Baſha of <hi>Bozſſ<gap reason="illegible: page creased" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap> Spahi</hi>'s</cell>
+                           <cell>04000</cell>
+                        </row>
+                        <row>
+                           <cell>Baſha of Great <hi>W<gap reason="illegible: page creased" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>adin, Spahi</hi>'s</cell>
+                           <cell>01000</cell>
+                        </row>
+                        <row>
+                           <cell>The Beglerbey of <hi>
+                                 <gap reason="illegible: page creased" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>omelia, Janizaries</hi>
+                           </cell>
+                           <cell>02400</cell>
+                        </row>
+                        <row>
+                           <cell>The Baſha of <hi>Syr<gap reason="illegible: page creased" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>, Spahi</hi>'s</cell>
+                           <cell>04000</cell>
+                        </row>
+                        <row>
+                           <cell>The Beglerbey of <hi>
+                                 <gap reason="illegible: page creased" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>elleſta, Spahi</hi>'s</cell>
+                           <cell>02500</cell>
+                        </row>
+                        <row>
+                           <cell>The Baſha of <hi>Ale<gap reason="illegible: page creased" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>, Janizaries</hi>
+                           </cell>
+                           <cell>03000</cell>
+                        </row>
+                        <row>
+                           <cell>The Baſha of <hi>Da<gap reason="illegible: page creased" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>ſcus, Janizaries</hi>
+                           </cell>
+                           <cell>04000</cell>
+                        </row>
+                        <row>
+                           <cell>The Baſha of <hi>Ni<gap reason="illegible: page creased" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>oli, Janizaries</hi>
+                           </cell>
+                           <cell>11400</cell>
+                        </row>
+                        <row>
+                           <cell>The Baſha of <hi>Qu<gap reason="illegible: page creased" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>iſat,</hi> Voluntiers</cell>
+                           <cell>08000</cell>
+                        </row>
+                        <row>
+                           <cell>Aga of the Artile<gap reason="illegible: page creased" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> Granadiers</cell>
+                           <cell>01200</cell>
+                        </row>
+                        <row>
+                           <cell>The Aga Miners</cell>
+                           <cell>00600</cell>
+                        </row>
+                        <row>
+                           <cell cols="2">49100</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell>Camels</cell>
+                           <cell>2400</cell>
+                        </row>
+                        <row>
+                           <cell>Oxen, to draw th<gap reason="illegible: page creased" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap> Artilery</cell>
+                           <cell>0365</cell>
+                        </row>
+                        <row>
+                           <cell>Waggons of Am<gap reason="illegible: page creased" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>ition</cell>
+                           <cell>0400</cell>
+                        </row>
+                        <row>
+                           <cell>Great Field-piec<gap reason="illegible: page creased" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>
+                           </cell>
+                           <cell>0045</cell>
+                        </row>
+                        <row>
+                           <cell>Leſſer Field-piec<gap reason="illegible: page creased" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>
+                           </cell>
+                           <cell>0028</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>To which ha<gap reason="illegible: page creased" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> been added ſince their March for <hi>Eſſeck,</hi> 2200<gap reason="illegible: page creased" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 
+                     <hi>Spahi</hi>'s and <hi>Janizaries,</hi> from ſe<g ref="char:EOLhyphen"/>veral parts of t<gap reason="illegible: page creased" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 
+                     <hi>Grand Signiors</hi> Dominions, and the whole joyne<gap reason="illegible: page creased" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> by an Army of 30000 <hi>Tartars</hi> under the Com<gap reason="illegible: page creased" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>d of the <hi>Chams Brother.</hi>
+                  </p>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>License <hi>Auguſt</hi> the 23d. 1687.</p>
+         </div>
+         <div type="colophon">
+            <p>Printed by <hi>G. <gap reason="illegible: page creased" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>room,</hi> in <hi>Thames-ſtreet.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
